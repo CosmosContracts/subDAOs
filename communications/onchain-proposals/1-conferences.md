@@ -20,7 +20,7 @@ With the following proposals, we are asking funding from the community pool to c
 
 The conference season is about to begin, and we would like to participate in some as sponsors and in others as participants. We think that the presence of Juno in these conferences is important, asserting Juno as the leading CosmWasm blockchain in the Interchain Ecosystem and showing off all the good work being put by the Core Development team.
 
-Here is a table of the upcoming conferences, we intend to support, and their corresponding budgeting :-
+Here is a table of the upcoming conferences, we intend to support, and their corresponding budgeting:
 
 
 | Conference Name | Date | Location | Sponsor Budget | Comms Budget |

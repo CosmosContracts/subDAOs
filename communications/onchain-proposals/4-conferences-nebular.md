@@ -30,7 +30,7 @@ Here is a breakdown of what we will get accomplished at this conference:
 | Nebular Hacker House | July 22, 23 | Paris | 5,000 USD | 2,000 USD |
 | Nebular Summit | July 24, 25 | Paris | 9,000 USD | 2,000 USD |
 
-Total request: **20.000 JUNO** valued **~14.000 USD**
+Total request: **25.700 JUNO** valued **~18.000 USD**
 
 ## Note
 Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expenses. Additionally, Core 1 members will never be reimbursed of any expense.

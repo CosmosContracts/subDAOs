@@ -24,7 +24,7 @@ Here is a breakdown of what we will get accomplished at this conference:
 | -------- | -------- | -------- | -------- | -------- |
 | OsmoCon     | July 21     | Paris      | 15,000 USD  | 1,000 USD   |
 
-Total request: **21.500 JUNO** valued **~15.000 USD**
+Total request: **22.900 JUNO** valued **~16.000 USD**
 
 ## Note
 Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expenses. Additionally, Core 1 members will never be reimbursed of any expense.
