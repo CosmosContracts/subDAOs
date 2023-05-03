@@ -29,7 +29,7 @@ Here is a breakdown of what we will get accomplished at this conference:
 
 Total request: **24.300 JUNO** valued **~17.000 USD**
 
-*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed of any expenses.*
+*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed for any expenses.*
 
 ## Voting on this proposal
 * By voting **YES** on this proposal, you support Juno's presence at After-Cosmoverse Hackathon conference.

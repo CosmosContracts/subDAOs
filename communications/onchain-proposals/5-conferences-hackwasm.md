@@ -35,7 +35,7 @@ Total request: **11.500 JUNO** valued **~8.000 USD**
 ## Conflict of interest
 Dimi (Core-1 member) has a major share participation in Made in Block, 100% of the grant requested will be used for organization of the event only.
 
-*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed of any expenses.*
+*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed for any expenses.*
 
 ## Voting on this proposal
 * By voting **YES** on this proposal, you support Juno's presence at HackWasm Italy conference.
