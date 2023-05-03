@@ -25,10 +25,10 @@ Here is a breakdown of what we will get accomplished at this conference:
 
 Total request: **10.000 JUNO** valued **~7.000 USD**
 
-*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expenses. Additionally, Core-1 members will not be reimbursed of any expenses.*
+*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed of any expenses.*
 
 ## Voting on this proposal
-* By voting **YES** on this proposal, you approve the funding and support Juno's presence at AwesomWasm conference.
+* By voting **YES** on this proposal, you support Juno's presence at AwesomWasm conference.
 * By voting **NO** on this proposal, you disapprove the funding and do not support Juno's presence at AwesomWasm conference.
 * By voting **NO WITH VETO**, you find this proposal to be spam/malicious to governance, and additionally contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
 * By voting **ABSTAIN**, you formally decline to vote either for or against the proposal.
