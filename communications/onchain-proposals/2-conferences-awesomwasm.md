@@ -1,13 +1,13 @@
 # 2/6 Conferences budget - AwesomWasm
 
-This is the second proposal asking for conferences budget, specific for AwesomWasm event.
+This is the second proposal, following the passing of the previous signaling proposal for Juno's presence at conferences and events, specifically for the AwesomWasm event.
 
 ## What is AwesomWasm
-AwesomWasm is a 5 days conference + hackaton organized by Confio. It's the first conference with a specific focus on CosmWasm, as Juno being one of the early adopters of the module and one of the major chains in Cosmos supporting permissionless smart contracts we think sponsoring this event is very important.
+AwesomWasm is a 5-day conference + hackathon organized by Confio. It's the first conference with a specific focus on CosmWasm. As Juno being one of the early adopters of the module and one of the major chains in Cosmos supporting permissionless smart contracts, we think sponsoring this event is very important.
 
-It will be held in Berlin from July 12nd to July 16th.
+It will be held in Berlin from July 12th to July 16th.
 
-Please reference to their website for more information. ↗ [Link](https://www.awesomwasm.com/)
+Please visit their [website](https://www.awesomwasm.com/) for more information.
 
 Here is a breakdown of what we will get accomplished at this conference:
 
@@ -25,11 +25,10 @@ Here is a breakdown of what we will get accomplished at this conference:
 
 Total request: **10.000 JUNO** valued **~7.000 USD**
 
-## Note
-Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expenses. Additionally, Core 1 members will never be reimbursed of any expense.
+*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed for any expenses.*
 
 ## Voting on this proposal
-* By voting **YES** on this proposal, you support the presence of Juno at AwesomeWasm conference.
-* By voting **NO** on this proposal, you think we should not support / go to that conference.
-* By voting **NO WITH VETO**, you think we are wasting governance time and additionally you contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
+* By voting **YES** on this proposal, you support Juno's presence at AwesomWasm conference.
+* By voting **NO** on this proposal, you do not support Juno's presence at AwesomWasm conference.
+* By voting **NO WITH VETO**, you find this proposal to be spam/malicious to governance, and additionally contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
 * By voting **ABSTAIN**, you formally decline to vote either for or against the proposal.
