@@ -3,11 +3,11 @@
 This is the second proposal, following the passing of the previous signaling proposal for Juno's presence at conferences and events, specifically for the AwesomWasm event.
 
 ## What is AwesomWasm
-AwesomWasm is a 5 days conference + hackathon organized by Confio. It's the first conference with a specific focus on CosmWasm. As Juno being one of the early adopters of the module and one of the major chains in Cosmos supporting permissionless smart contracts, we think sponsoring this event is very important.
+AwesomWasm is a 5-day conference + hackathon organized by Confio. It's the first conference with a specific focus on CosmWasm. As Juno being one of the early adopters of the module and one of the major chains in Cosmos supporting permissionless smart contracts, we think sponsoring this event is very important.
 
 It will be held in Berlin from July 12th to July 16th.
 
-Please visit their website for more information. ↗ [Link](https://www.awesomwasm.com/)
+Please visit their [website](https://www.awesomwasm.com/) for more information.
 
 Here is a breakdown of what we will get accomplished at this conference:
 

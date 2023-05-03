@@ -3,7 +3,7 @@
 This is the fifth proposal, following the passing of the previous signaling proposal for Juno's presence at conferences and events, specifically for the HackWasm Italy event.
 
 ## What is HackWasm Italy
-HackWasm Italy will be a 48-hour hackathon organized by Juno in collaboration with local partners, including [Made in Block](https://twitter.com/madeinblock_), other validators and other ecosystem chains. 
+HackWasm Italy will be a 2-day hackathon organized by Juno in collaboration with local partners, including [Made in Block](https://twitter.com/madeinblock_), other validators and other ecosystem chains. 
 
 Made In Block is already hosting Cosmos Meetups monthly, partially self funded and partially supported by the [ATOM Accelerator DAO](https://twitter.com/ATOMAccelerator/status/1648703193742974976). Italy has a flourishing developer ecosystem which is yet to discover about Cosmos and the blockchain space in general. Considering that meetups are attended by an average of 50-60 people, it's expected that the Hackathon will attract around 100 developers who could be ready to join the ecosystem and build something cool.
 

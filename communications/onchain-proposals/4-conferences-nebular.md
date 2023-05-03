@@ -3,11 +3,11 @@
 This is the fourth proposal, following the passing of the previous signaling proposal for Juno's presence at conferences and events, specifically for the Nebular event.
 
 ## What is Nebular Summit
-Nebular Summit is a 2-day conference + hacker house organized by Sebastien Couture and his team. This is the second edition the conference and around 800 Cosmonauts are expected to attend.
+Nebular Summit is a 2-day conference + Hacker House organized by Sebastien Couture and his team. This is the second edition the conference and around 800 Cosmonauts are expected to attend.
 
 It will be held in Paris from July 22nd to July 25th.
 
-Please reference to their website for more information. ↗ [Link](https://www.nebular.builders/) 
+Please reference to their [website](https://www.nebular.builders/) for more information.
 
 ## Why should the Juno Community Pool fund this proposal?
 Nebular Summit is taking place during the Ethereum Community Conference, the largest gathering of crypto developers in Europe. While thousands of developers, entrepreneurs and investors will be in Paris for the EthCC, Nebular Summit will bring together some of the most respected members of the Interchain and Ethereum community. As the main sponsor of a significant Cosmos conference during EthCC week, Juno has a unique opportunity to reach Ethereum developers and attract new projects to the ecosystem.
@@ -17,7 +17,7 @@ Here is a breakdown of what we will get accomplished at this conference:
 - **Nebular Hacker House**
     - 2 people presence
     - CosmWasm Workshop made by Juno Devs
-    - Vested Hackathon prizes sponsored by Hackjuno/Core-1 subDAOs (if needed)
+    - Vested Hackathon prizes sponsored by Hackjuno/Core-1 SubDAOs (if needed)
 - **Nebular summit**
     - 2 people in presence
     - Jake speaking
