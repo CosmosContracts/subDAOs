@@ -1,16 +1,16 @@
 # 4/6 Conferences budget - Nebular
 
-This is the fourth proposal asking for conferences budget, specific for Nebular Summit event.
+This is the fourth proposal, following the passing of the previous signaling proposal for Juno's presence at conferences and events, specifically for the Nebular event.
 
 ## What is Nebular Summit
-Nebular Summit is a 2 days conference + hacker house organized by Sebastien Couture and team. This is the second edition the conference. Around 800 Cosmonauts are expected to attend.
+Nebular Summit is a 2-day conference + hacker house organized by Sebastien Couture and his team. This is the second edition the conference and around 800 Cosmonauts are expected to attend.
 
 It will be held in Paris from July 22nd to July 25th.
 
 Please reference to their website for more information. ↗ [Link](https://www.nebular.builders/) 
 
-## Why Juno Community Pool should fund this proposal
-Nebular Summit is taking place during EthCC week, the largest gathering of crypto developers in Europe. While thousands of developers, entrepreneurs and investors will be in Paris for the Ethereum Community Conference, Nebular Summit will bring together some of the most respected members of the Interchain and Ethereum community. As the main sponsor of a significant Cosmos conference during EthCC week, Juno has a unique opportunity to reach Ethereum developers and attract new projects to the ecosystem.
+## Why should the Juno Community Pool fund this proposal?
+Nebular Summit is taking place during the Ethereum Community Conference, the largest gathering of crypto developers in Europe. While thousands of developers, entrepreneurs and investors will be in Paris for the EthCC, Nebular Summit will bring together some of the most respected members of the Interchain and Ethereum community. As the main sponsor of a significant Cosmos conference during EthCC week, Juno has a unique opportunity to reach Ethereum developers and attract new projects to the ecosystem.
 
 Here is a breakdown of what we will get accomplished at this conference:
 
@@ -32,11 +32,10 @@ Here is a breakdown of what we will get accomplished at this conference:
 
 Total request: **25.700 JUNO** valued **~18.000 USD**
 
-## Note
-Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expenses. Additionally, Core 1 members will never be reimbursed of any expense.
+*NOTE: Even if the proposal doesn't pass, Juno contributors are allowed to go to the conference at their own expense. Additionally, Core-1 members will not be reimbursed of any expenses.*
 
 ## Voting on this proposal
-* By voting **YES** on this proposal, you support the presence of Juno at Nebular Summit conference.
-* By voting **NO** on this proposal, you think we should not support / go to that conference.
-* By voting **NO WITH VETO**, you think we are wasting governance time and additionally you contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
+* By voting **YES** on this proposal, you support Juno's presence at Nebular Summit conference.
+* By voting **NO** on this proposal, you disapprove the funding and do not support Juno's presence at Nebular Summit conference.
+* By voting **NO WITH VETO**, you find this proposal to be spam/malicious to governance, and additionally contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
 * By voting **ABSTAIN**, you formally decline to vote either for or against the proposal.
