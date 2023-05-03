@@ -30,7 +30,7 @@ Here is a table of the upcoming conferences, we intend to support, and their cor
 | Nebular Hacker House | July 22, 23 | Paris | 5,000 USD | 2,000 USD |
 | Nebular Summit | July 24, 25 | Paris | 9,000 USD | 2,000 USD |
 | HackWasm Italy | September 16th (tbc) | Italy | 8,000 USD | 0 USD |
-| HackWasm Turkey | October 5,6 | Istanbul | 15,000 USD | 2,000 USD |
+| After-Cosmoverse Hackathon | October 5,6 | Istanbul | 15,000 USD | 2,000 USD |
 
 *NOTE: Cosmoverse will take place in Istanbul on 2nd-4th of October. Discussion is still ongoing with the organizers and a separate proposal will be submitted when details are ready.*
 
