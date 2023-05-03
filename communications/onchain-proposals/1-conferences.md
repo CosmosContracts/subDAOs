@@ -48,16 +48,16 @@ The funds will go to the Juno Communications SubDAO treasury. For spending purpo
 Juno Governance can always recall the funds back to the community pool.
 Any unspent remaining funds will stay in the SubDAO treasury for future usage.
 
-*NOTE: Two conferences are already waiting for contract signing. Until the payment deadline is close, the SubDAO might consider liquid staking the tokens in the mean time*
+*NOTE: Two conferences are already waiting for contract signing. Until the payment deadline is close, the SubDAO might consider liquid staking the tokens in the mean time.*
 
-## How to vote
+## Voting Procedure for Conferences/Events
 We are submitting a total of 6 proposals for the 6 conferences above, community is free to vote on each proposal to signal whether we should support a conference or not. 
 
-The expenses for each conference are the best deal we were able to have after negotations and discussions with the organizers, modifying the sponsor packages to best suit our needs.
+The budget for every conference is the best deal we were able to come across after negotations and discussions with the organizers; modifying the sponsor packages to best suit our needs and handpicking the necessities.
 
 Juno Communications SubDAO is in favor of supporting the conferences listed above.
 
-This proposal is signaling only to introduce the proposals for each conference. In case if this proposal gets rejected, it would show that the community do not want the Communications SubDAO to work on conferences and events at all. 
+This is a signaling proposal to check the community's interest in introducing the proposals for the mentioned conferences. In case if this proposal gets rejected, it would indicate that the community do not want the Communications SubDAO to work on conferences and events at all. 
 
 ## Voting on this proposal
 * By voting **YES**, you are in support of the work *Juno Communications SubDAO* is doing to participate in conferences.
