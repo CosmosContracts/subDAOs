@@ -7,7 +7,7 @@ OsmoCon is a 1-day conference organized by Osmosis, our Mesh Security partner ch
 
 It will be held in Paris July 21st.
 
-Please visit their [website](https://www.osmocon.com/) for more information. (It might be outdated, but conference is confirmed)
+Please visit their [website](https://www.osmocon.com/) for more information. *(It might be outdated but the conference is confirmed)*
 
 Here is a breakdown of what we will get accomplished at this conference:
 
