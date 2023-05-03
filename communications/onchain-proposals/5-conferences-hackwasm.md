@@ -39,6 +39,6 @@ Dimi (Core-1 member) has a major share participation in Made in Block, 100% of t
 
 ## Voting on this proposal
 * By voting **YES** on this proposal, you support Juno's presence at HackWasm Italy conference.
-* By voting **NO** on this proposal, you disapprove the funding and do not support Juno's presence at HackWasm Italy conference.
+* By voting **NO** on this proposal, you do not support Juno's presence at HackWasm Italy conference.
 * By voting **NO WITH VETO**, you find this proposal to be spam/malicious to governance, and additionally contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
 * By voting **ABSTAIN**, you formally decline to vote either for or against the proposal.
