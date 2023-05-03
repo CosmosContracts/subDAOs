@@ -29,6 +29,6 @@ Total request: **10.000 JUNO** valued **~7.000 USD**
 
 ## Voting on this proposal
 * By voting **YES** on this proposal, you support Juno's presence at AwesomWasm conference.
-* By voting **NO** on this proposal, you disapprove the funding and do not support Juno's presence at AwesomWasm conference.
+* By voting **NO** on this proposal, you do not support Juno's presence at AwesomWasm conference.
 * By voting **NO WITH VETO**, you find this proposal to be spam/malicious to governance, and additionally contribute towards burning of 1,000 $JUNO proposal deposit and proposal rejection if NoWithVeto votes are greater than one third of the total voting power.
 * By voting **ABSTAIN**, you formally decline to vote either for or against the proposal.
